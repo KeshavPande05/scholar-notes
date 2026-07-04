@@ -1,0 +1,20 @@
+# Python Virtual Environment
+backend/venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Environment
+backend/.env
+
+# Uploads
+backend/uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
