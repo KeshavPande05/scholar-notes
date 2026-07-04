@@ -1,15 +1,19 @@
-# Python Virtual Environment
+# ==========================
+# Python
+# ==========================
 backend/venv/
-
-# Python Cache
 __pycache__/
 *.py[cod]
+*.egg-info/
 
-# Environment
+# Environment files
 backend/.env
 
-# Uploads
+# Upload directory
 backend/uploads/
+
+# Logs
+*.log
 
 # IDE
 .vscode/
